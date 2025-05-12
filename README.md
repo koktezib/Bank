@@ -10,7 +10,6 @@
 * [Команды](#команды)
 * [API Endpoints](#api-endpoints)
 * [Примеры запросов](#примеры-запросов)
-* [Тестирование](#тестирование)
 
 ## Требования
 
@@ -101,7 +100,6 @@ go run cmd/server/main.go
 
 * `go run cmd/server/main.go` — запуск приложения
 * `migrate up` / `migrate down` — управление миграциями
-* `go test ./...` — запуск тестов
 
 ## API Endpoints
 
